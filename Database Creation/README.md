@@ -29,4 +29,4 @@ This project demonstrates the basic SQL Data Definition Language (DDL) commands 
 
 ## Author
 
-Your Name
+Ogheneughwe Godwin AKISE
