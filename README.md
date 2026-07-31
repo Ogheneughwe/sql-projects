@@ -1,5 +1,5 @@
 # Welcome to my SQL Portfolio.
-A collection of SQL projects demonstrating database design, querying, data analysis, and database management skills.
+This a collection of SQL projects demonstrating database design, querying, data analysis, and database management skills.
 
 This repository documents my journey in learning SQL through practical projects.
 
